@@ -1,0 +1,19 @@
+.userDetails{
+    height: 100vh;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.user{
+    width: 50%;
+    min-height: 60vh;
+    background-color: orange;
+}
+.mountain{
+    width: 35%;
+    min-height: 60vh;
+    background-color: orange;
+}

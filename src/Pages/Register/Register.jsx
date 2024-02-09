@@ -70,7 +70,8 @@ function Register() {
             return;
         }
         else{
-            navigate('/Info')
+            window.localStorage.setItem("userInfo",JSON.stringify(userDetails))
+            navigate('/Info');
         }
     }
 

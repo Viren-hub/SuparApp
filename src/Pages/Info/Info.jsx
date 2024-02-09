@@ -2,13 +2,13 @@ import React, { useEffect, useState } from 'react';
 import './Info.css'
 import action from '../../Assets/action.png'
 import Drama from '../../Assets/drama.png'
-import Romance from '../../Assets/Romance.png'
-import Thriller from '../../Assets/Thriller.png'
-import Western from '../../Assets/Western.png'
+import Romance from '../../Assets/romance.png'
+import Thriller from '../../Assets/thriller.png'
+import Western from '../../Assets/western.png'
 import Horror from '../../Assets/Horror.png'
 import Fantasy from '../../Assets/Fantasy.png'
-import Music from '../../Assets/Music.png'
-import Fiction from '../../Assets/Fiction.png'
+import Music from '../../Assets/music.png'
+import Fiction from '../../Assets/fiction.png'
 import alert from '../../Assets/alert.png'
 import { useNavigate } from 'react-router-dom';
 const genres = [

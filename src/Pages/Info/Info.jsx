@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Info.css'
 import action from '../../Assets/action.png'
-import Drama from '../../Assets/Drama.png'
+import Drama from '../../Assets/drama.png'
 import Romance from '../../Assets/Romance.png'
 import Thriller from '../../Assets/Thriller.png'
 import Western from '../../Assets/Western.png'
